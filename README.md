@@ -1,3 +1,3 @@
 # Healthcare-Project
 # Predictive Modeling in Healthcare: Multi-Class Classification of Medical Test Results using ML and DL Techniques
-# ![image.png](attachment:4ff7b1b4-d75a-4829-9089-1866a78ce7ba.png)
+## The Healthcare Dataset is a synthetic dataset generated to mimic real-world healthcare data. It is designed to help data science, machine learning, and data analysis enthusiasts develop and test their skills in healthcare analytics while avoiding privacy concerns associated with real patient data. The dataset can be used for various tasks, such as classification, prediction, and data visualization, and focuses on solving a Multi-Class Classification Problem where the target is the Test Results column.
