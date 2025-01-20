@@ -1,5 +1,5 @@
 # Healthcare-Project
-![Alt text]((https://github.com/harshitdokwal/Healthcare-Project/blob/main/Digital-Healthcare-Trends.jpg))
+![Healthcare]([(https://github.com/harshitdokwal/Healthcare-Project/blob/main/Digital-Healthcare-Trends.jpg)](https://github.com/harshitdokwal/Healthcare-Project/blob/main/Digital-Healthcare-Trends.jpg))
 
 # Predictive Modeling in Healthcare: Multi-Class Classification of Medical Test Results using ML and DL Techniques
 ### The Healthcare Dataset is a synthetic dataset generated to mimic real-world healthcare data. It is designed to help data science, machine learning, and data analysis enthusiasts develop and test their skills in healthcare analytics while avoiding privacy concerns associated with real patient data. The dataset can be used for various tasks, such as classification, prediction, and data visualization, and focuses on solving a Multi-Class Classification Problem where the target is the Test Results column.
